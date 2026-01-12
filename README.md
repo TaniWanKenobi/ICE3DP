@@ -17,6 +17,8 @@ It has sheet cooling as well as dual z drive by one nema 17 and using a nema 17 
 
 ![alt text](assets/image-4.png)
 
+## Wiring
+![alt text](assets/wiring.png)
 ## BOM
 
 | Item                     | Description        | Qty | Unit Price ($) | Shipping | Total ($) | URL | Running Total ($ with Tax) |
