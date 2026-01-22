@@ -51,3 +51,10 @@ It has sheet cooling as well as dual z drive by one nema 17 and using a nema 17 
 ## Dependencies
 - Klipper firmware (https://github.com/Klipper3d/klipper)
 
+## License
+
+This project is licensed under the **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY‑NC‑SA 4.0)** license.
+
+See the full license text in the `LICENSE.md` file in this repository.
+
+
